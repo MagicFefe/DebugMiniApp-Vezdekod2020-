@@ -23,8 +23,8 @@ class App extends React.Component {
 		super(props);
 
 		this.state = {
-            user: null,
-            image: null
+        	user: null,
+        	image: null
 		};
 	}
 
